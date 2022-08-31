@@ -1,0 +1,4 @@
+Some of the programs that he is using still exists today in Unix. Pipping has
+always been cool. Unix file system is very simple. lol Fortran. woohoo
+scripting. Honestly great that devices are represented as files in Unix. 
+
